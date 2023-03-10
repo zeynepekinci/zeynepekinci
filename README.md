@@ -12,9 +12,8 @@ My favorite language is definitely **JavaScript** and **Python**
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/hacerzeynepekinci)
 
 
-<details>
 
   <img src="https://github-readme-stats.vercel.app/api?username=zeynepekinci&show_icons=true&count_private=true&theme=dark" />
-</details>
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepekinci)
