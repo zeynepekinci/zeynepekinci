@@ -1,6 +1,6 @@
 
 
-Hello, this is **Hacer Zeynep Ekinci**
+## Hello, this is **Hacer Zeynep Ekinci**
 
 I live in **Istanbul Turkey**. **Information Technologies / Web Design and Programming** I am a 12th grade student..
 I am working in the field of **Front-End**, which is my own department and also a passion.
@@ -16,3 +16,5 @@ My favorite language is definitely **JavaScript** and **Python**
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=zeynepekinci&show_icons=true&count_private=true&theme=dark" />
 </details>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepekinci)
