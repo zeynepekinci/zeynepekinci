@@ -1,7 +1,7 @@
 ### zeynepekinci
 
 
-Hello, this is *Hacer Zeynep Ekinci**
+Hello, this is **Hacer Zeynep Ekinci**
 
 I live in **Istanbul Turkey**. **Information Technologies / Web Design and Programming** I am a 12th grade student..
 I am working in the field of **Front-End**, which is my own department and also a passion.
